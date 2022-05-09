@@ -5,6 +5,8 @@ const init = function (value:number) {
     console.log("hola");
     
 }
+console.log("segundo hola");
+
 
 
 
