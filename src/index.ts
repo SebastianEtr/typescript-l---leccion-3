@@ -1,38 +1,9 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 //actividad 3
 
-//Ejercicio 1 falta
+//Ejercicio 1 
 
 const myPromise = new Promise((resolve) => {
     resolve (1)  
@@ -46,7 +17,7 @@ myPromise.then((value) => {
 
 
 
-//ejercicio 2 listo
+//ejercicio 2 
 
 const myPromise = new Promise((resolve) => {
     resolve(1)  
@@ -62,7 +33,7 @@ const myPromise = new Promise((resolve) => {
 
 /*
 
-  //ejercicio 3 listo
+  //ejercicio 3 
 
   const myPromise = new Promise((resolve, reject) => {
     resolve(1)  
@@ -111,17 +82,6 @@ const myPromise = new Promise((resolve) => {
               
            
             */
-
-
-
-
-
-
-
-
-
-
-
 
 
 
